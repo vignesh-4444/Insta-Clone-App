@@ -5,13 +5,6 @@ The goal is to reproduce Instagram’s core UI: a photo feed, like & comment but
 
 ---
 
-## 🖥️ Live Demo
-
-🔗 [View Live Project](https://your-live-demo-link.com)  
-_(Replace this with your actual Netlify / GitHub Pages / Vercel link)_
-
----
-
 ## 🔧 Tech Stack
 
 | Technology  | Purpose                                  |
